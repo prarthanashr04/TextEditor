@@ -1,0 +1,67 @@
+.BoxComponent{
+    background: #F4F5F7;
+    border-radius: 10px 10px 0px 0px;
+    margin: 27px 327px 92px 180px;
+}
+
+.boxheading{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.8;
+}
+
+.speakerimg{
+    width: 40px;
+    height: 40px;
+}
+
+.speaker{
+    display: flex;
+    align-items: center;
+}
+
+.speakerheading{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.8;
+    margin: 2px;
+}
+
+.speakertimestamp{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.6;
+    margin: 2px;
+}
+
+.comment{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.6;
+}
+
+.commentd{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #091E42;
+    opacity: 0.8;
+}
